@@ -1,4 +1,4 @@
 colony-coalition
 ================
 
-Colongy Coalition - 
+Colony Coalition - 
